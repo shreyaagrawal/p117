@@ -1,0 +1,44 @@
+.heading{
+    color: white;
+    font-size: 30;
+}
+.div_model{
+    color: black;
+    background-color: white;
+    width: 600px;
+    border-radius: 50px;
+    padding-bottom: 3;
+    padding-top: 3;
+    box-shadow: 5px 5px 5px pink;
+}
+.h3_name{
+    background-color: pink;
+    width: 400px;   
+    padding: 5;
+    border-radius: 50px;
+}
+.blue_cover{
+    background-color: orchid;
+    padding-bottom: 20;
+    
+}
+.object_class{
+    background-color: pink;
+    width: fit-content;
+    border-radius: 10px;
+}
+.footer{
+    text-align: center;
+    color: white;
+    background-color: gray;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    line-height: 2;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 150px;
+    box-shadow: 5px 5px 5px orchid;
+}
